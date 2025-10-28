@@ -37,7 +37,6 @@ Full-stack platform built using Flask, React, and a custom data-processing pipel
 - Designed to reduce taxable appraised value by ~10%
 - Built to address a real-world, high-friction problem
 - Stack includes: Flask, NumPy, Pillow, React, JavaScript, HTML/CSS  
-  (From resume: RKCenterprise details and tech stack) 
 
 ---
 
@@ -47,7 +46,6 @@ A PNG manipulation tool that applies bitwise and arithmetic operations on image 
 - Eliminates manual trial-and-error in steganography-type CTF challenges  
 - Built using Flask + Pillow + React  
 - Enables combining multiple PNG layers for extraction  
-  (From resume: PNG overlay tool description) 
 
 ---
 
@@ -56,7 +54,6 @@ Created 80+ cybersecurity challenges used in club competitions.
 
 - Covers cryptography, OSINT, forensics, steganography, reverse engineering, and web exploitation
 - Designed full writeups and challenge infrastructure
-  (From resume: CTF challenge design) 
 
 ---
 
